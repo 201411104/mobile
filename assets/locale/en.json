@@ -1,0 +1,115 @@
+{
+  "button"              : "Button",
+
+  "home_button"         : "Home Button",
+  "home_button_title"   : "Test Home Button",
+
+  "lock_button"         : "Lock Button",
+  "lock_button_title"   : "Test Lock Button",
+
+  "volume_button"       : "Volume Button",
+  "up"                  : "Volume Up Button",
+  "down"                : "volume Down Button",
+
+  "biometrics"          : "Biometrics",
+
+  "fingerprint"         : "FingerPrint",
+  "fp_y"                : "FingerPrint OK",
+  "fp_n"                : "FingerPrint X",
+
+  "iris"                : "Iris",
+  "iris_y"              : "Iris OK",
+  "iris_n"              : "Iris X",
+
+  "face"                : "Face",
+  "face_y"              : "Face OK",
+  "face_n"              : "Face X",
+
+  "headset_on_off"      : "Headset On/Off",
+  "put_a_headphone"     : "put your headphone jack and click start button",
+  "unplug_a_headphone"  : "Unplug your headphone jack and click start button",
+
+  "sim_card"            : "Sim Card",
+  "sim_y"               : "Sim Card checked",
+  "sim_n"               : "No Sim Card!",
+
+  "communication"       : "Communications",
+
+  "wifi"                : "Wi-fi",
+  "wifi_y"              : "Wi-Fi connection confirmed.",
+  "wifi_n"              : "Please connect Wi-fi",
+
+  "bluetooth"           : "Bluetooth",
+  "bluetooth_y"         : "Bluetooth connection confirmed.",
+  "bluetooth_n"         : "Please connect Bluetooth.",
+  "bluetooth_e"         : "Your phone can't use Blutooth",
+
+  "battery"             : "Battery",
+  "battery_level"       : "현재 배터리",
+  "battery_status"      : "배터리 상태",
+  "full"                : "완충",
+  "charging"            : "충전중",
+  "discharging"         : "강철중",
+  "refresh"             : "Refresh",
+
+  "sensor"              : "Sensors",
+  "x_axis"              : "X-Axis",
+  "y_axis"              : "Y-Axis",
+  "z_axis"              : "Z-Axis",
+  "accelero_sensor"     : "Accelerometer",
+  "gyro_sensor"         : "Gyroscope",
+  "gyro_wait"           : "Waiting for to Test",
+  "gyro_x_axis_notify"  : "please shake your phone right or left",
+  "gyro_y_axis_notify"  : "please shake your phone upward or downward",
+  "gyro_z_axis_notify"  : "please turn your phone clockwise or counterclockwise",
+  "geolocation"         : "GPS",
+
+  "touch"               : "Touch",
+
+  "camera"              : "Camera",
+  "front_camera"        : "Front_Camera",
+  "back_camera"         : "Back_Camera",
+
+  "compass"             : "Compass",
+
+  "confirm"             : "Confirm",
+  "start_test"          : "Start Test",
+  "end_test"            : "Test End",
+
+  "strange"             : "Strange",
+  "non_strange"         : "Clear",
+
+  "speaker"             : "Speaker",
+  "speaker_explain"     : "Keep your phone away from your ear. Increase the volume and press the button.",
+  "200hz"               : "Check 200hz",
+  "500hz"               : "Check 500hz",
+  "1000hz"              : "Check 1000hz",
+  "5000hz"              : "Check 5000hz",
+  "10000hz"             : "Check 10000hz",
+  "15000hz"             : "Check 15000hz",
+
+  "ambient_light_sensor": "Ambient Light Sensor",
+  "proximity_sensor"    : "Proximity Sensor",
+  "proximity_sensor_explain" :  "Put your hands on the front camera",
+
+  "device_info"         : "Device Information",
+  "device_manufacturer"      : "Manufacturer",
+  "device_model"      : "Model",
+  "device_hardward"     : "Hardware",
+  "device_id"         : "ID",
+
+  "device_info_UI"         : "Device Information_UI",
+  "button_UI"               : "Button UI",
+  "communication_UI"      : "Communication UI",
+
+  "etc"               : "etc",
+  "qr_code"          : "QR code",
+  "Inspection_results"  : "Inspection_results",
+
+  "main"                : "main",
+  "program"             : "Select Program",
+  "skip"                : "Skip",
+
+  "announcement"        : "Announcement",
+  "notice"              : "Notice"
+}

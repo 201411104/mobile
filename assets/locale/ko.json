@@ -1,0 +1,118 @@
+{
+  "button"              : "버튼",
+
+  "home_button"         : "홈 버튼",
+  "home_button_title"   : "홈 버튼 검사",
+
+  "lock_button"         : "잠금 버튼",
+  "lock_button_title"   : "잠금 버튼 검사",
+
+  "volume_button"       : "볼륨 버튼",
+  "up"                  : "Volume Up Button",
+  "down"                : "volume Down Button",
+
+  "biometrics"          : "생체인식",
+
+  "fingerprint"         : "지문 인식",
+  "fp_y"                : "FingerPrint OK",
+  "fp_n"                : "FingerPrint X",
+
+  "iris"                : "홍채 인식",
+  "iris_y"              : "Iris OK",
+  "iris_n"              : "Iris X",
+
+  "face"                : "얼굴 인식",
+  "face_y"              : "Face OK",
+  "face_n"              : "Face X",
+
+  "headset_on_off"      : "헤드폰 On/Off",
+  "put_a_headphone"     : "이어폰을 꽂고 검사 시작 버튼을 눌러주세요.",
+  "unplug_a_headphone"  : "이어폰을 빼고 검사 시작 버튼을 눌러주세요.",
+
+  "sim_card"            : "유심 카드",
+  "sim_y"               : "유심 카드 확인 완료",
+  "sim_n"               : "유심 카드가 없습니다!",
+
+  "communication"       : "통신",
+
+  "wifi"                : "와이파이",
+  "wifi_y"              : "와이파이 연결이 확인되었습니다.",
+  "wifi_n"              : "와이파이를 연결해주세요!",
+
+  "bluetooth"           : "블루투스",
+  "bluetooth_y"         : "블루투스 연결이 확인되었습니다.",
+  "bluetooth_n"         : "블루투스를 연결해주세요!",
+  "bluetooth_e"         : "블루투스를 이용할 수 없는 기기입니다.",
+
+  "battery"             : "배터리",
+  "battery_level"       : "현재 배터리",
+  "battery_status"      : "배터리 상태",
+  "full"                : "완충",
+  "charging"            : "충전중",
+  "discharging"         : "강철중",
+  "refresh"             : "새로고침",
+
+  "touch"               : "터치",
+
+  "sensor"              : "센서",
+  "x_axis"              : "X-축",
+  "y_axis"              : "Y-축",
+  "z_axis"              : "Z-축",
+  "accelero_sensor"     : "방향 센서",
+  "gyro_sensor"         : "자이로 스코프 센서",
+  "gyro_wait"           : "테스트를 기다리는 중",
+  "gyro_x_axis_notify"  : "휴대전화를 위/아래로 흔들어 주세요",
+  "gyro_y_axis_notify"  : "휴대전화를 양/옆으로 흔들어 주세요",
+  "gyro_z_axis_notify"  : "휴대전화를 시계방향/ 반시계방향으로 돌려주세요",
+  "geolocation"         : "GPS",
+
+  "camera"              : "카메라",
+  "front_camera"        : "전면카메라",
+  "back_camera"         : "후면카메라",
+
+  "compass"             : "나침반",
+
+  "confirm"             : "확인",
+  "start_test"          : "검사 시작",
+  "end_test"            : "검사 완료",
+  
+  "strange"             : "이상 있음",
+  "non_strange"         : "이상 없음",
+
+  "speaker"             : "스피커",
+  "speaker_explain"     : "핸드폰을 귀에 가까이 대고 있지 마세요. 볼륨을 높인 후, 재생 버튼을 누르세요.",
+  "200hz"               : "확인 200hz",
+  "500hz"               : "확인 500hz",
+  "1000hz"              : "확인 1000hz",
+  "5000hz"              : "확인 5000hz",
+  "10000hz"             : "확인 10000hz",
+  "15000hz"             : "확인 15000hz",
+
+  "ambient_light_sensor": "조도 센서",
+  "proximity_sensor"    : "근접 센서",
+  "proximity_sensor_explain" :  "전면 카메라에 손을 올리세요.",
+  
+  "device_info"         : "휴대폰 정보",
+  "device_manufacturer" : "제조사",
+  "device_model"        : "모델명",
+  "device_hardward"     : "하드웨어",
+  "device_id"           : "ID",
+
+
+  "device_info_UI"      : "휴대폰 정보 UI",
+  "button_UI"           : "버튼 UI",
+  "communication_UI"    : "통신 UI",
+
+  "etc"                 : "기타",
+  "qr_code"             : "QR코드",
+  "Inspection_results"  : "기능 검사 결과",
+
+  "main"                : "main",
+
+  "program"             : "접수 프로그램 선택",
+  "skip"                : "스킵",
+
+  "announcement"        : "공지사항",
+  "notice"              : "주의사항"
+}
+

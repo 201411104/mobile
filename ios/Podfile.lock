@@ -1,0 +1,126 @@
+PODS:
+  - all_sensors (0.0.1):
+    - Flutter
+  - audioplayers (0.0.1):
+    - Flutter
+  - battery (0.0.1):
+    - Flutter
+  - camera (0.0.1):
+    - Flutter
+  - connectivity (0.0.1):
+    - Flutter
+    - Reachability
+  - device_info (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - flutter_blue (0.0.1):
+    - Flutter
+    - flutter_blue/Protos (= 0.0.1)
+  - flutter_blue/Protos (0.0.1):
+    - Flutter
+    - Protobuf
+  - flutter_compass (0.0.1):
+    - Flutter
+  - geolocator (5.2.1):
+    - Flutter
+  - google_api_availability (2.0.2):
+    - Flutter
+  - hardware_buttons (0.0.1):
+    - Flutter
+  - local_auth (0.0.1):
+    - Flutter
+  - "location_permissions (2.0.4+1)":
+    - Flutter
+  - path_provider (0.0.1):
+    - Flutter
+  - "permission_handler (4.2.0+hotfix.3)":
+    - Flutter
+  - Protobuf (3.11.3)
+  - Reachability (3.2)
+  - sim_info (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - all_sensors (from `.symlinks/plugins/all_sensors/ios`)
+  - audioplayers (from `.symlinks/plugins/audioplayers/ios`)
+  - battery (from `.symlinks/plugins/battery/ios`)
+  - camera (from `.symlinks/plugins/camera/ios`)
+  - connectivity (from `.symlinks/plugins/connectivity/ios`)
+  - device_info (from `.symlinks/plugins/device_info/ios`)
+  - Flutter (from `Flutter`)
+  - flutter_blue (from `.symlinks/plugins/flutter_blue/ios`)
+  - flutter_compass (from `.symlinks/plugins/flutter_compass/ios`)
+  - geolocator (from `.symlinks/plugins/geolocator/ios`)
+  - google_api_availability (from `.symlinks/plugins/google_api_availability/ios`)
+  - hardware_buttons (from `.symlinks/plugins/hardware_buttons/ios`)
+  - local_auth (from `.symlinks/plugins/local_auth/ios`)
+  - location_permissions (from `.symlinks/plugins/location_permissions/ios`)
+  - path_provider (from `.symlinks/plugins/path_provider/ios`)
+  - permission_handler (from `.symlinks/plugins/permission_handler/ios`)
+  - sim_info (from `.symlinks/plugins/sim_info/ios`)
+
+SPEC REPOS:
+  trunk:
+    - Protobuf
+    - Reachability
+
+EXTERNAL SOURCES:
+  all_sensors:
+    :path: ".symlinks/plugins/all_sensors/ios"
+  audioplayers:
+    :path: ".symlinks/plugins/audioplayers/ios"
+  battery:
+    :path: ".symlinks/plugins/battery/ios"
+  camera:
+    :path: ".symlinks/plugins/camera/ios"
+  connectivity:
+    :path: ".symlinks/plugins/connectivity/ios"
+  device_info:
+    :path: ".symlinks/plugins/device_info/ios"
+  Flutter:
+    :path: Flutter
+  flutter_blue:
+    :path: ".symlinks/plugins/flutter_blue/ios"
+  flutter_compass:
+    :path: ".symlinks/plugins/flutter_compass/ios"
+  geolocator:
+    :path: ".symlinks/plugins/geolocator/ios"
+  google_api_availability:
+    :path: ".symlinks/plugins/google_api_availability/ios"
+  hardware_buttons:
+    :path: ".symlinks/plugins/hardware_buttons/ios"
+  local_auth:
+    :path: ".symlinks/plugins/local_auth/ios"
+  location_permissions:
+    :path: ".symlinks/plugins/location_permissions/ios"
+  path_provider:
+    :path: ".symlinks/plugins/path_provider/ios"
+  permission_handler:
+    :path: ".symlinks/plugins/permission_handler/ios"
+  sim_info:
+    :path: ".symlinks/plugins/sim_info/ios"
+
+SPEC CHECKSUMS:
+  all_sensors: 13f46502204bebbd1e06b65ff3d7cdaa03d88b26
+  audioplayers: 84f968cea3f2deab00ec4f8ff53358b3c0b3992c
+  battery: 42c3029d295615713120da60f48f2dc4ce98f030
+  camera: 38cc83ae9a5667bb5a71c7d9edaf60a91920fd4e
+  connectivity: 6e94255659cc86dcbef1d452ad3e0491bb1b3e75
+  device_info: cbf09d2ec12aa7110e0b09fabe54b5bd6c8efe74
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  flutter_blue: c5c8de9ca963849ee2ca13d3ec65afaff4948bd6
+  flutter_compass: cbbd285cea1584c7ac9c4e0c3e1f17cbea55e855
+  geolocator: a048cc412bf350b17d671d170f151b0c9fb8f098
+  google_api_availability: 6f1017d3a61be12be3bd9f929cc5b2606f24ae7f
+  hardware_buttons: 014f502132c734dc391a47e2b708728b1dd8bf32
+  local_auth: 2571c49920ae469f46d5557435fad8fa473a5e88
+  location_permissions: 360d12ecd1c94a4cab68585f508be1d5ad944c8b
+  path_provider: fb74bd0465e96b594bb3b5088ee4a4e7bb1f2a9d
+  permission_handler: 40520ab8ad1bb78a282b832464e995ec87f77ec6
+  Protobuf: 0e94afe3b47cb11876eb6aee296638711a24bf75
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  sim_info: 9d8750399533a8eb626fbb7f6fc0776b154de2a6
+
+PODFILE CHECKSUM: 1b66dae606f75376c5f2135a8290850eeb09ae83
+
+COCOAPODS: 1.8.4
