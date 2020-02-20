@@ -1,6 +1,6 @@
 # mobile
 
-A new Flutter project.
+Flutter 첫 실습
 
 ## Getting Started
 
